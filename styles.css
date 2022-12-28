@@ -1,0 +1,89 @@
+body {
+    background-color: #d7dbdd;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.title {
+    padding-top: 10px;
+    margin-bottom: -20px;
+}
+
+#title {
+    margin-bottom: -10px;
+}
+
+.honorifics {
+    color: #f1c40f;
+    margin-bottom: -10px;
+}
+
+span {
+    font-weight: bolder;
+    color: black;
+    font-family: 'Gelasio', serif;
+}
+
+.container {
+    background-color: #212f3c;
+    color: #d7dbdd;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+#img-div {
+    display: block;
+    margin: 0 auto;
+    background-color: #d7dbdd;
+    width: 80%;
+    border-radius: 20px;
+    color: #212f3c;
+    text-align: center;
+}
+
+#img-caption {
+    padding-bottom: 10px;
+    font-weight: 900;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0;
+    border-radius: 20px;
+    width: 40%;
+    max-width: 100%;
+}
+
+.timeline {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li {
+    font-size: 20px;
+    padding: 10px 10px;
+    list-style: circle;
+}
+
+h2 {
+    font-family: 'Gelasio', serif; 
+}
+
+.link {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #f1c40f;
+}
+
+a:hover {
+    background-color: #f1c40f;
+    color: #212f3c;
+    border-radius: 5px;
+}
